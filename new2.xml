@@ -5,4 +5,8 @@
 	<age>54</age>
 	<pets>7</pets>
 	<expected_salary>500</expected_salary>
+	<favorite_film>Pre'nome</favorite_film>
+	<favorite_dishe>meat</favorite_dishe>
+	<favorite_season>summer</favorite_season>
+	<expected_country>Canada</expected_country>
 </root>
