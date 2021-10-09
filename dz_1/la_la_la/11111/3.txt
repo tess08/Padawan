@@ -1,0 +1,6 @@
+1) freedom 10
+2) morning 20
+3) shop 30
+4) evening 40
+5) book 50
+6) frog 60
