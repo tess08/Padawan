@@ -1,0 +1,24 @@
+	Project
+	ID
+	Created date
+	Update date
+	Summary
+	Status
+	Resolution
+	Priority
+	Severity
+	Incident Type
+	Category
+	Component
+	Affects Version
+	Fix version
+	Assignee
+	Labels
+	Environment
+	Description
+	Attachments
+	Reproducible
+	Workaround
+	STR
+	Additional info
+	Symptom
